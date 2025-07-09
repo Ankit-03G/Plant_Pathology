@@ -417,10 +417,7 @@ st.markdown(
                 <span class="stat-number">4</span>
                 <span class="stat-label">Disease Classes</span>
             </div>
-            <div class="stat-item">
-                <span class="stat-number">82%</span>
-                <span class="stat-label">Accuracy</span>
-            </div>
+            
             <div class="stat-item">
                 <span class="stat-number">< 1s</span>
                 <span class="stat-label">Processing Time</span>
