@@ -38,7 +38,7 @@ This application leverages the **Plant Pathology 2020 Challenge dataset** from C
 
 ## 🖥️ Local Setup
 
-1. **Clone the repository:**
+1. **Clone the repository :**
    ```bash
    git clone https://github.com/Ankit-03G/Plant_Pathology.git
    cd Plant_Pathology
